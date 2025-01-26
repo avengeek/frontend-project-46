@@ -11,7 +11,7 @@
     "gendiff": "bin/gendiff.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrey Gerasimuk",
   "license": "ISC",
   "dependencies": {
     "commander": "^13.0.0"
